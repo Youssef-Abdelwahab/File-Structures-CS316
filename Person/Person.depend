@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1709709146 source:c:\folder\cs\files\coding\person\person.cpp
+	<iostream>
+	<string>
+	"Person.h"
+
+1709707689 c:\folder\cs\files\coding\person\person.h
+	<iostream>
+	<string>
+
+1709845441 source:c:\folder\cs\files\coding\person\testperson.cpp
+	<iostream>
+	<string>
+	"Person.h"
+
