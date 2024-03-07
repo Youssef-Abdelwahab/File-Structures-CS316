@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1709844375 source:c:\folder\cs\files\coding\quiz01\book.cpp
+	<iostream>
+	<string>
+	"Book.h"
+
+1709844505 c:\folder\cs\files\coding\quiz01\book.h
+	<iostream>
+	<string>
+
+1709834360 source:c:\folder\cs\files\coding\quiz01\testbook.cpp
+	<iostream>
+	<string>
+	"Book.h"
+
